@@ -3,10 +3,12 @@
 A modern full-stack e-commerce application built and customized by **Muhammad Samiullah** using Next.js, React, Shopify API, and modern web technologies.
 
 ## Overview
+<img width="946" height="533" alt="image" src="https://github.com/user-attachments/assets/0de76c95-f0ca-4c46-a0f3-e10ba189b459" />
 
 ShopSphere is a high-performance e-commerce platform designed to provide a seamless shopping experience. The application features product browsing, search, cart management, secure checkout integration, and responsive design.
 
 ## Features
+<img width="953" height="493" alt="image" src="https://github.com/user-attachments/assets/21460e64-89a1-40db-989c-a95c1934f2de" />
 
 * Modern and responsive UI
 * Product catalog and collections
