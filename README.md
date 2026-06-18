@@ -8,7 +8,7 @@ A modern full-stack e-commerce application built and customized by **Muhammad Sa
 ShopSphere is a high-performance e-commerce platform designed to provide a seamless shopping experience. The application features product browsing, search, cart management, secure checkout integration, and responsive design.
 
 ## Features
-<img width="953" height="493" alt="image" src="https://github.com/user-attachments/assets/21460e64-89a1-40db-989c-a95c1934f2de" />
+<img width="951" height="495" alt="image" src="https://github.com/user-attachments/assets/509a8145-c2b6-4d38-b5e0-02ef0d69eb9c" />
 
 * Modern and responsive UI
 * Product catalog and collections
@@ -39,6 +39,7 @@ ShopSphere is a high-performance e-commerce platform designed to provide a seaml
 ### Deployment
 
 * Vercel
+<img width="752" height="277" alt="image" src="https://github.com/user-attachments/assets/8be915eb-6f96-4412-aca9-b9bd7bd66121" />
 
 ## Installation
 
